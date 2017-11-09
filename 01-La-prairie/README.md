@@ -6,13 +6,14 @@ Searching is an important part of the job of web developer. As such, Google is y
 
 ## Markdown warm up
 
-Group exercice (2-3)
+Group exercice (2-3),
 
 Use markdown as much as you can
 
 Find a website that deserves improvements
 
-Analyse it, and answer to those questions with markdown within the README.md file
+1. One of the groupe creates a repository
+2. Analyse it, and answer to those questions with markdown within the README.md file
 
 - Wich site website ?
 - Is it updated frequently ?

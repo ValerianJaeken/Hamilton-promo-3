@@ -16,6 +16,7 @@ Group exercice (2-3)
 *Use markdown as much as you can*
 
 ### Questions :
+
 - Wich website did you find ? (name, url, link )
 - Is it updated frequently ?
 - How did you find it ?
@@ -24,5 +25,16 @@ Group exercice (2-3)
 - Make a list of recomandations of futur changes
 - With your group, present your markdown and the website
 
+## Markdown warm up 2
 
-## Cadavre exquis manuel
+- The ones that do not have the repository will fork it
+- Add the following modifications
+  - Add a recommandation of a futur change
+  - Add a list of the group members
+- Commit the changes
+- Send a `pull request` to the original one
+- By group see how the original accept the pull-request
+- Create an `issue` on the repository of the other groups member
+- All the group solve their issue the issue
+
+

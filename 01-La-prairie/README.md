@@ -8,8 +8,6 @@ Searching is an important part of the job of web developer. As such, Google is y
 
 Group exercice (2-3),
 
-
-
 1. One of the groupe creates a repository named : markdown-warmup
 2. Find a website that deserves improvements
 3. Analyse it

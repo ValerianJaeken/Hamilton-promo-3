@@ -35,6 +35,9 @@ Group exercice (2-3)
 - Send a `pull request` to the original one
 - By group see how the original accepts the `pull-request`
 - Create an `issue` on the repository of the other groups members
-- All the group solve their own issues
+- All the group solve their own issues 
+ 
+ ##**DISCORD SERVER FOR OUR HAMILTON PEEPS**
+ https://discord.gg/XNGAaep
 
 

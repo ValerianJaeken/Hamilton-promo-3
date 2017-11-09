@@ -12,7 +12,7 @@ Use markdown as much as you can
 
 Find a website that deserves improvements
 
-1. One of the groupe creates a repository
+1. One of the groupe creates a repository named : markdown-warmup
 2. Analyse it, and answer to those questions with markdown within the README.md file
 
 - Wich site website ?

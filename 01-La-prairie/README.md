@@ -33,8 +33,8 @@ Group exercice (2-3)
   - Add a list of the group members
 - Commit the changes
 - Send a `pull request` to the original one
-- By group see how the original accept the pull-request
-- Create an `issue` on the repository of the other groups member
-- All the group solve their issue the issue
+- By group see how the original accepts the `pull-request`
+- Create an `issue` on the repository of the other groups members
+- All the group solve their own issues
 
 
